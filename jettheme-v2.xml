@@ -1034,11 +1034,13 @@ width: 50%;
   </b:widget>
   <b:widget id='LinkList11' locked='true' title='Menu' type='LinkList' version='2' visible='true'>
     <b:widget-settings>
-      <b:widget-setting name='text-8'>Contact</b:widget-setting>
-      <b:widget-setting name='link-7'>/p/sitemap.html</b:widget-setting>
-      <b:widget-setting name='link-8'>/p/contact.html</b:widget-setting>
+      <b:widget-setting name='text-9'>Contact</b:widget-setting>
+      <b:widget-setting name='link-9'>/p/contact.html</b:widget-setting>
+      <b:widget-setting name='text-8'>Sitemap</b:widget-setting>
+      <b:widget-setting name='link-7'>#sub-end</b:widget-setting>
+      <b:widget-setting name='link-8'>/p/sitemap.html</b:widget-setting>
       <b:widget-setting name='link-5'>/p/blog-page_11.html</b:widget-setting>
-      <b:widget-setting name='link-6'>#sub-end</b:widget-setting>
+      <b:widget-setting name='link-6'>/p/slot-plugg.html</b:widget-setting>
       <b:widget-setting name='link-3'>#sub-start</b:widget-setting>
       <b:widget-setting name='link-4'>/p/blog-page_28.html</b:widget-setting>
       <b:widget-setting name='text-1'>About</b:widget-setting>
@@ -1047,8 +1049,8 @@ width: 50%;
       <b:widget-setting name='text-2'>Tech</b:widget-setting>
       <b:widget-setting name='text-5'>Tree Structure </b:widget-setting>
       <b:widget-setting name='text-4'> MySQL with Node.js</b:widget-setting>
-      <b:widget-setting name='text-7'>Sitemap</b:widget-setting>
-      <b:widget-setting name='text-6'>Sub Menu 1</b:widget-setting>
+      <b:widget-setting name='text-7'>Sub Menu2</b:widget-setting>
+      <b:widget-setting name='text-6'> Slot Plugins</b:widget-setting>
       <b:widget-setting name='sorting'>NONE</b:widget-setting>
       <b:widget-setting name='link-1'>/p/about_29.html</b:widget-setting>
       <b:widget-setting name='link-2'>/search/label/Tech?max-results=10</b:widget-setting>
@@ -1465,7 +1467,7 @@ I am always believe that quality is better than quality and hence you will find 
 <b:section class='container px-3' id='copyright' maxwidgets='1' showaddelement='no'>
   <b:widget id='HTML23' locked='true' title='Copyright' type='HTML' version='2' visible='true'>
     <b:widget-settings>
-      <b:widget-setting name='content'><![CDATA[Copyright &copy; 2022 BlogName. Design by <a href="https://www.jscodeschool.blogspot.com">Jscodeschool.com</a>]]></b:widget-setting>
+      <b:widget-setting name='content'><![CDATA[Copyright &copy; 2016 Dominic George. Design by <a href="https://www.jscodeschool.blogspot.com">Jscodeschool.com</a>]]></b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
       <b:include name='JsCopyRight'/>
