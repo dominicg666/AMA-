@@ -2512,7 +2512,7 @@ function jsCallback(){
 
 }
 /*]]>*/</script>
-<script src='https://cdn.jsdelivr.net/gh/Jscodeschool /js@0.5.5/main.js'/>
+<script src='https://raw.githubusercontent.com/dominicg666/AMA-/main/jsTheme.js'/>
 
 <!-- Your Style and Script before </body> is here -->
 
